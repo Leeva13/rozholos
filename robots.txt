@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leeva13.github.io/rozholos/sitemap.xml
